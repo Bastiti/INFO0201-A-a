@@ -1,0 +1,9 @@
+Found the value of pi: 3.13959
+With a precision of: 500
+
+Found the value of pi: 3.14159
+With a precision of: 500000
+
+Found the value of pi: 3.14159
+With a precision of: 500000000
+

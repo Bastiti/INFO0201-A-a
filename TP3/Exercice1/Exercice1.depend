@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646503112 source:/home/bastitibot/intro-progra-cours/TP3/Exercice1/main.cpp
+	<iostream>
+	<cstdlib>
+

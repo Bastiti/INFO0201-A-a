@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647092187 source:/home/bastitibot/intro-progra-cours/TP3/Moyenne de nombre/main.cpp
+	<iostream>
+	<cstdlib>
+

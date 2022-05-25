@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647116641 source:/home/bastitibot/intro-progra-cours/TP4/dichotomie/main.cpp
+	<iostream>
+	<cmath>
+

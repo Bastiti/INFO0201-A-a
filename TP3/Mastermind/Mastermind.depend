@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647199008 source:/home/bastitibot/intro-progra-cours/TP3/Mastermind/main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+

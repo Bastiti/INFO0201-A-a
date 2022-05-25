@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1646419944 source:/home/bastitibot/intro-progra-cours/TP3/GoldenNumber/main.cpp
+	<iostream>
+	<unistd.h>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+

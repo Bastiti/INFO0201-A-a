@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647028623 source:/home/bastitibot/intro-progra-cours/TP4/Debugging/main.cpp
+	<iostream>
+	<cmath>
+	<string>
+

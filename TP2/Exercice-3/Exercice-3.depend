@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646052338 source:c:\users\basti\documents\intro-progra-cours\tp2\exercice-3\main.cpp
+	<iostream>
+	<bitset>
+

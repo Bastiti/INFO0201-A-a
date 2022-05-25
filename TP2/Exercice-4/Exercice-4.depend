@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1645920631 source:/home/bastitibot/intro-progra-cours/TP2/Exercice-4/main.cpp
+	<iostream>
+	<cmath>
+
+1645919673 source:/home/bastitibot/intro-progra-cours/TP2/Exercice-4/ex4-2.cpp
+	<iostream>
+

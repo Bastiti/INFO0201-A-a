@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647114504 source:/home/bastitibot/intro-progra-cours/TP4/Leibniz/main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

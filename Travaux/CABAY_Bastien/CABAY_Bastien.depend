@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1650475386 source:/home/bastitibot/intro-progra-cours/Travaux/CABAY_Bastien/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1648404004 source:c:\users\basti\documents\intro-progra-cours\travaux\cabay_bastien\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<string>
+	<ctime>
+

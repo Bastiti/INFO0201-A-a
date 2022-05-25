@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647735209 source:/home/bastitibot/System++/Exercice 4/main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<fstream>
+
