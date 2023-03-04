@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1649194221 source:/home/bastitibot/intro-progra-cours/Travaux/Olivia_Code/main.cpp
-	<iostream>
-	<ctime>
-	<cstdlib>
-	<fstream>
-
