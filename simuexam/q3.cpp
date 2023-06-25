@@ -29,7 +29,7 @@ int main()
         string colones; // variable pour stocker les lettres de la ligne
         for (int j = 0; j < mots[i].size(); j++)
         {
-            colones += mots[j][i]; // On inverse les lignes et les colonnes du vecteur transposée par rapport au vecteur mots
+            colones += mots[i][j]; // On inverse les lignes et les colonnes du vecteur transposée par rapport au vecteur mots
         }
         transposee.push_back(colones); // On ajoute la ligne à la transposée
     }
